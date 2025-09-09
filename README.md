@@ -6,7 +6,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="firstyaningtyas.jpg" alt="Profile Photo" width="180" style="border-radius:50%; box-shadow: 0 0 15px #aaa;"/>
+  <img src="firstyaningtyas.png" alt="Profile Photo" width="180" style="border-radius:50%; box-shadow: 0 0 15px #aaa;"/>
 </p>
 
 ---
