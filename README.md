@@ -17,6 +17,13 @@ I enjoy learning new things related to technology and building meaningful collab
 My focus is on creating thoughtful digital experiences that combine functionality and aesthetics.  
 
 ---
+## Skill Highlights
+- Web Design [██████████░░] 80%  
+- UI/UX [█████████░░░] 70%  
+- App Design [████████░░░░] 60%  
+- eLearning [█████████░░░] 75%
+
+  ---
 
 ## Connect with Me
 <p align="center">
@@ -33,26 +40,32 @@ My focus is on creating thoughtful digital experiences that combine functionalit
 </p>
 
 ---
-
-## Top Projects
+## Quote of the Day
 <p align="center">
-  <a href="https://github.com/firstyaningtyasnur19-cloud/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firstyaningtyasnur19-cloud&repo=project-1&theme=graywhite" />
-  </a>
-  <a href="https://github.com/firstyaningtyasnur19-cloud/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firstyaningtyasnur19-cloud&repo=project-2&theme=graywhite" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite&quote=Technology%20is%20best%20when%20it%20brings%20people%20together.&author=Matt%20Mullenweg" alt="quote"/>
 </p>
 
 ---
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firstyaningtyasnur19-cloud&show_icons=true&theme=graywhite" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstyaningtyasnur19-cloud&layout=compact&theme=graywhite" alt="top-langs" />
+## Inspiring Tech Quotes
+<p align="center" style="font-style:italic; color:#555;">
+ “The science of today is the technology of tomorrow.” – Edward Teller  
+</p>
+<p align="center" style="font-style:italic; color:#555;">
+ “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke  
+</p>
+<p align="center" style="font-style:italic; color:#555;">
+ “Technology like art is a soaring exercise of the human imagination.” – Daniel Bell  
 </p>
 
 ---
+## Currently Exploring
+- Cloud Computing and its impact on collaboration  
+- Modern UI/UX Design Principles  
+- AI and eLearning Integration  
+- Conflict Mediation in Digital Communities
+  
+---
+
 
 ## GitHub Trophies
 <p align="center">
@@ -82,9 +95,9 @@ My focus is on creating thoughtful digital experiences that combine functionalit
 </p>
 
 ---
-## Play Snake
+## Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ## Profile Visitors
